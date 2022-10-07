@@ -18,7 +18,7 @@ The first graph in Image 1. represents the number of bikes used in each hour. In
 
 ###### Image 1. Checkout Times for Users.
 
-![Image 1. Checkout Times for Users.](Resources/Image1.PNG)
+![Image 1. Checkout Times for Users.](Resources/CheckoutTimesforUser.PNG)
 
 * Checkout Times by Gender
 
@@ -26,7 +26,7 @@ The same graph from Image 1. was created for Image 2., but in this case a gender
 
 ###### Image 2. Checkout Times by Gender.
 
-![Image 2. Checkout Times by Gender.](Resources/Image1.PNG)
+![Image 2. Checkout Times by Gender.](Resources/CheckoutTimesbyGender.PNG)
 
 * Trips by Weekday
 
@@ -34,7 +34,7 @@ The other graph created for the challenge was to visualize the trip during the w
 
 ###### Image 3. Trips by Weekday.
 
-![Image 3. Trips by Weekday.](Resources/Image1.PNG)
+![Image 3. Trips by Weekday.](Resources/TripsbyWeekday.PNG)
 
 * Trips by Gender (Weekday per Hour)
 
@@ -42,7 +42,7 @@ The next graph is located in Image 4. shows the same results like in the last on
 
 ###### Image 4. Trips by Gender.
 
-![Image 4. Trips by Gender.](Resources/Image1.PNG)
+![Image 4. Trips by Gender.](Resources/TripsbyGender1.PNG)
 
 * Trips by Gender (Weekday)
 
@@ -50,7 +50,7 @@ The last graph created for the challenge shows the same results as in the last o
 
 ###### Image 5. Trips by Gender (Weekday).
 
-![Image 5. Trips by Gender (Weekday).](Resources/Image1.PNG)
+![Image 5. Trips by Gender (Weekday).](Resources/TripsbyGender2.PNG)
 
 *Other Visualizations 
 
@@ -58,7 +58,7 @@ Some extra graphs created during the module appear in Image 6. The image include
 
 ###### Image 6. Other visualizations.
 
-![Image 6. Other visualizations.](Resources/Image1.PNG)
+![Image 6. Other visualizations.](Resources/Others.PNG)
 
 
 # Summary
@@ -68,9 +68,21 @@ Some extra graphs created during the module appear in Image 6. The image include
 The Story created for the Challenge contains “Image 1. Checkout Times for User” and “Image 2. Checkout Times for Gender”. Both graphs were selected for the story to show the portion of the total users that are in FEMALE, MALE, and KNOWN groups. 
 
 Link to Tableau Public:
-https://public.tableau.com/app/profile/daniela.soto7263/viz/Challenge14_16650964024410/CheckoutTimes?publish=yes
+[link to dashboard](https://public.tableau.com/app/profile/daniela.soto7263/viz/Challenge14_16650964024410/CheckoutTimes?publish=yes)
 
 * Additional visualizations
+
+The analysis is quite complete but other graphs could be created to demonstrate more results. One possible graph located in Image 7. could help to show many riders starting in each station. The results could be used to locate more bikes in the most current locations. Another possible graph could be like the one in Image 8., showing the types of users in a pie chart. One important point from the chart is that it also shows the number of riders from each section and it is easier for others to visualize the big difference between them.
+
+###### Image 7. Start Stations.
+
+![Image 7. Start Stations.](Resources/StartStation.PNG)
+
+###### Image 8. User Types.
+
+![Image 8. User Types.](Resources/UserTypes.PNG)
+
+
 
 
 
