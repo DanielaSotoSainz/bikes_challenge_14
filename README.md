@@ -52,7 +52,7 @@ The last graph created for the challenge shows the same results as in the last o
 
 ![Image 5. Trips by Gender (Weekday).](Resources/TripsbyGender2.PNG)
 
-*Other Visualizations 
+* Other Visualizations 
 
 Some extra graphs created during the module appear in Image 6. The image includes a dashboard with different graphs. The pie chart shows the Genders, and the number above represents the total number of rides. The next graph, “Average Trip Duration”, shows the age of the users and tells which users last longer on the bike. In this case, riders borned in 1890 are the ones that have longer trip durations. The graph below the others represents the places where users start their ride. It shows in a map the place where most of the users start and also other places with less users.
 
@@ -68,7 +68,7 @@ Some extra graphs created during the module appear in Image 6. The image include
 The Story created for the Challenge contains “Image 1. Checkout Times for User” and “Image 2. Checkout Times for Gender”. Both graphs were selected for the story to show the portion of the total users that are in FEMALE, MALE, and KNOWN groups. 
 
 Link to Tableau Public:
-[link to dashboard](https://public.tableau.com/app/profile/daniela.soto7263/viz/Challenge14_16650964024410/CheckoutTimes?publish=yes)
+[link to dashboard](https://public.tableau.com/views/Challenge14_16650964024410/BikeTripAnalysis?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 * Additional visualizations
 
